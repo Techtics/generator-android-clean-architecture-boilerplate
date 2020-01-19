@@ -34,7 +34,7 @@ cd NewApp
 yo android-clean-architecture-boilerplate
 ```
 
-You might also check out my [blog](https://medium.com/techtics/android-clean-architecture-boilerplate-code-generator-79a450941ec8) for this generator.
+You might also check out my [blog](https://medium.com/techtics/android-clean-architecture-boilerplate-code-generator-79a450941ec8) for this generator and a [video](https://www.youtube.com/watch?v=ti0Fwpm1F9Y) on how to install and run it.
 
 ### Created & Maintained By
 Arundhati Gupta [@arundhatigupta](https://github.com/arundhatigupta)
